@@ -1,0 +1,24 @@
+td{
+text-align:center;
+border-style:solid;
+boder-size:0.1px;
+border-collapse:collapse;
+}
+th{
+bacground-color:light-blue;
+text-align:center;
+border-style:solid;
+boder-size:0.1px;
+border-collapse:collapse;
+}
+body {
+   
+ font-family: Arial;
+  
+ line-height: 1.6;
+background-attachment:scroll;
+
+bacground-color:wheat;
+}
+
+
